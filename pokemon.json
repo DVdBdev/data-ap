@@ -1,0 +1,254 @@
+{
+    "pokemon": [
+        {
+            "id": 25,
+            "name": "pikachu",
+            "types": ["electric"],
+            "description": "An Electric-type Pokémon known for its lightning bolt-shaped tail.",
+            "powerLevel": 85,
+            "isLegendary": false,
+            "dateCaptured": "2023-07-15",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "type": "Electric",
+            "abilities": [
+                "Static",
+                "Lightning Rod"
+            ],
+            "trainer": {
+                "id": 101,
+                "name": "Ash Ketchum",
+                "hometown": "Pallet Town",
+                "badges": [
+                    "Boulder Badge",
+                    "Cascade Badge",
+                    "Thunder Badge"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "charizard",
+            "types": ["fire", "flying"],
+            "description": "A Fire/Flying-type Pokémon that breathes intense flames.",
+            "powerLevel": 95,
+            "isLegendary": false,
+            "dateCaptured": "2021-09-10",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "type": "Fire",
+            "abilities": [
+                "Blaze",
+                "Solar Power"
+            ],
+            "trainer": {
+                "id": 102,
+                "name": "Leon",
+                "hometown": "Postwick",
+                "badges": [
+                    "Grass Badge",
+                    "Fire Badge",
+                    "Water Badge"
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "name": "bulbasaur",
+            "types": ["grass", "poison"],
+            "description": "A Grass/Poison-type Pokémon known for the plant bulb on its back.",
+            "powerLevel": 70,
+            "isLegendary": false,
+            "dateCaptured": "2022-05-20",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "type": "Grass",
+            "abilities": [
+                "Overgrow",
+                "Chlorophyll"
+            ],
+            "trainer": {
+                "id": 103,
+                "name": "May",
+                "hometown": "Petalburg City",
+                "badges": [
+                    "Stone Badge",
+                    "Dynamo Badge",
+                    "Balance Badge"
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "name": "gengar",
+            "types": ["ghost", "poison"],
+            "description": "A Ghost/Poison-type Pokémon known for its mischievous and spooky nature.",
+            "powerLevel": 90,
+            "isLegendary": false,
+            "dateCaptured": "2020-10-31",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+            "type": "Ghost",
+            "abilities": [
+                "Cursed Body",
+                "Levitate"
+            ],
+            "trainer": {
+                "id": 104,
+                "name": "Agatha",
+                "hometown": "Kanto",
+                "badges": [
+                    "Soul Badge",
+                    "Marsh Badge",
+                    "Volcano Badge"
+                ]
+            }
+        },
+        {
+            "id": 150,
+            "name": "mewtwo",
+            "types": ["psychic"],
+            "description": "A Psychic-type legendary Pokémon created from genetic manipulation.",
+            "powerLevel": 100,
+            "isLegendary": true,
+            "dateCaptured": "2018-12-25",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+            "type": "Psychic",
+            "abilities": [
+                "Pressure",
+                "Unnerve"
+            ],
+            "trainer": {
+                "id": 105,
+                "name": "Giovanni",
+                "hometown": "Viridian City",
+                "badges": [
+                    "Earth Badge",
+                    "Poison Badge",
+                    "Dark Badge"
+                ]
+            }
+        },
+        {
+            "id": 39,
+            "name": "jigglypuff",
+            "types": ["normal", "fairy"],
+            "description": "A Normal/Fairy-type Pokémon known for its soothing lullabies.",
+            "powerLevel": 60,
+            "isLegendary": false,
+            "dateCaptured": "2023-02-14",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+            "type": "Fairy",
+            "abilities": [
+                "Cute Charm",
+                "Competitive"
+            ],
+            "trainer": {
+                "id": 106,
+                "name": "Misty",
+                "hometown": "Cerulean City",
+                "badges": [
+                    "Cascade Badge",
+                    "Rain Badge",
+                    "Wave Badge"
+                ]
+            }
+        },
+        {
+            "id": 143,
+            "name": "snorlax",
+            "types": ["normal"],
+            "description": "A Normal-type Pokémon known for its enormous size and love of sleeping.",
+            "powerLevel": 85,
+            "isLegendary": false,
+            "dateCaptured": "2019-04-10",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+            "type": "Normal",
+            "abilities": [
+                "Immunity",
+                "Thick Fat"
+            ],
+            "trainer": {
+                "id": 107,
+                "name": "Red",
+                "hometown": "Pallet Town",
+                "badges": [
+                    "Boulder Badge",
+                    "Earth Badge",
+                    "Thunder Badge"
+                ]
+            }
+        },
+        {
+            "id": 448,
+            "name": "lucario",
+            "types": ["fighting", "steel"],
+            "description": "A Fighting/Steel-type Pokémon that can sense aura.",
+            "powerLevel": 92,
+            "isLegendary": false,
+            "dateCaptured": "2021-06-05",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+            "type": "Fighting",
+            "abilities": [
+                "Steadfast",
+                "Inner Focus"
+            ],
+            "trainer": {
+                "id": 108,
+                "name": "Riley",
+                "hometown": "Iron Island",
+                "badges": [
+                    "Iron Badge",
+                    "Steel Badge",
+                    "Aura Badge"
+                ]
+            }
+        },
+        {
+            "id": 445,
+            "name": "garchomp",
+            "types": ["dragon", "ground"],
+            "description": "A Dragon/Ground-type Pokémon with incredible speed and power.",
+            "powerLevel": 98,
+            "isLegendary": false,
+            "dateCaptured": "2022-11-18",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
+            "type": "Dragon",
+            "abilities": [
+                "Sand Veil",
+                "Rough Skin"
+            ],
+            "trainer": {
+                "id": 109,
+                "name": "Cynthia",
+                "hometown": "Celestic Town",
+                "badges": [
+                    "Beacon Badge",
+                    "Icicle Badge",
+                    "Relic Badge"
+                ]
+            }
+        },
+        {
+            "id": 133,
+            "name": "eevee",
+            "types": ["normal"],
+            "description": "A Normal-type Pokémon known for its many possible evolutions.",
+            "powerLevel": 65,
+            "isLegendary": false,
+            "dateCaptured": "2023-01-01",
+            "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+            "type": "Normal",
+            "abilities": [
+                "Run Away",
+                "Adaptability"
+            ],
+            "trainer": {
+                "id": 110,
+                "name": "Serena",
+                "hometown": "Vaniville Town",
+                "badges": [
+                    "Bug Badge",
+                    "Fairy Badge",
+                    "Psychic Badge"
+                ]
+            }
+        }
+    ]
+}
