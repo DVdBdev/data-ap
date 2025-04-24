@@ -14,16 +14,7 @@
                 "Static",
                 "Lightning Rod"
             ],
-            "trainer": {
-                "id": 101,
-                "name": "Ash Ketchum",
-                "hometown": "Pallet Town",
-                "badges": [
-                    "Boulder Badge",
-                    "Cascade Badge",
-                    "Thunder Badge"
-                ]
-            }
+            "trainerId": 101
         },
         {
             "id": 6,
@@ -39,16 +30,7 @@
                 "Blaze",
                 "Solar Power"
             ],
-            "trainer": {
-                "id": 102,
-                "name": "Leon",
-                "hometown": "Postwick",
-                "badges": [
-                    "Grass Badge",
-                    "Fire Badge",
-                    "Water Badge"
-                ]
-            }
+            "trainerId": 102
         },
         {
             "id": 1,
@@ -64,16 +46,7 @@
                 "Overgrow",
                 "Chlorophyll"
             ],
-            "trainer": {
-                "id": 103,
-                "name": "May",
-                "hometown": "Petalburg City",
-                "badges": [
-                    "Stone Badge",
-                    "Dynamo Badge",
-                    "Balance Badge"
-                ]
-            }
+            "trainerId": 103
         },
         {
             "id": 94,
@@ -89,16 +62,7 @@
                 "Cursed Body",
                 "Levitate"
             ],
-            "trainer": {
-                "id": 104,
-                "name": "Agatha",
-                "hometown": "Kanto",
-                "badges": [
-                    "Soul Badge",
-                    "Marsh Badge",
-                    "Volcano Badge"
-                ]
-            }
+            "trainerId": 104
         },
         {
             "id": 150,
@@ -114,16 +78,7 @@
                 "Pressure",
                 "Unnerve"
             ],
-            "trainer": {
-                "id": 105,
-                "name": "Giovanni",
-                "hometown": "Viridian City",
-                "badges": [
-                    "Earth Badge",
-                    "Poison Badge",
-                    "Dark Badge"
-                ]
-            }
+            "trainerId": 105
         },
         {
             "id": 39,
@@ -139,16 +94,7 @@
                 "Cute Charm",
                 "Competitive"
             ],
-            "trainer": {
-                "id": 106,
-                "name": "Misty",
-                "hometown": "Cerulean City",
-                "badges": [
-                    "Cascade Badge",
-                    "Rain Badge",
-                    "Wave Badge"
-                ]
-            }
+            "trainerId": 106
         },
         {
             "id": 143,
@@ -164,16 +110,7 @@
                 "Immunity",
                 "Thick Fat"
             ],
-            "trainer": {
-                "id": 107,
-                "name": "Red",
-                "hometown": "Pallet Town",
-                "badges": [
-                    "Boulder Badge",
-                    "Earth Badge",
-                    "Thunder Badge"
-                ]
-            }
+            "trainerId": 107
         },
         {
             "id": 448,
@@ -189,16 +126,7 @@
                 "Steadfast",
                 "Inner Focus"
             ],
-            "trainer": {
-                "id": 108,
-                "name": "Riley",
-                "hometown": "Iron Island",
-                "badges": [
-                    "Iron Badge",
-                    "Steel Badge",
-                    "Aura Badge"
-                ]
-            }
+            "trainerId": 108
         },
         {
             "id": 445,
@@ -214,16 +142,7 @@
                 "Sand Veil",
                 "Rough Skin"
             ],
-            "trainer": {
-                "id": 109,
-                "name": "Cynthia",
-                "hometown": "Celestic Town",
-                "badges": [
-                    "Beacon Badge",
-                    "Icicle Badge",
-                    "Relic Badge"
-                ]
-            }
+            "trainerId": 109
         },
         {
             "id": 133,
@@ -239,16 +158,7 @@
                 "Run Away",
                 "Adaptability"
             ],
-            "trainer": {
-                "id": 110,
-                "name": "Serena",
-                "hometown": "Vaniville Town",
-                "badges": [
-                    "Bug Badge",
-                    "Fairy Badge",
-                    "Psychic Badge"
-                ]
-            }
+            "trainerId": 110
         }
     ]
 }
