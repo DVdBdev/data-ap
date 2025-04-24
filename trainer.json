@@ -1,0 +1,104 @@
+{
+    "trainers": [
+        {
+            "id": 101,
+            "name": "Ash Ketchum",
+            "hometown": "Pallet Town",
+            "badges": [
+                "Boulder Badge",
+                "Cascade Badge",
+                "Thunder Badge"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "Leon",
+            "hometown": "Postwick",
+            "badges": [
+                "Grass Badge",
+                "Fire Badge",
+                "Water Badge"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "May",
+            "hometown": "Petalburg City",
+            "badges": [
+                "Stone Badge",
+                "Dynamo Badge",
+                "Balance Badge"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Agatha",
+            "hometown": "Kanto",
+            "badges": [
+                "Soul Badge",
+                "Marsh Badge",
+                "Volcano Badge"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Giovanni",
+            "hometown": "Viridian City",
+            "badges": [
+                "Earth Badge",
+                "Poison Badge",
+                "Dark Badge"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Misty",
+            "hometown": "Cerulean City",
+            "badges": [
+                "Cascade Badge",
+                "Rain Badge",
+                "Wave Badge"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Red",
+            "hometown": "Pallet Town",
+            "badges": [
+                "Boulder Badge",
+                "Earth Badge",
+                "Thunder Badge"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Riley",
+            "hometown": "Iron Island",
+            "badges": [
+                "Iron Badge",
+                "Steel Badge",
+                "Aura Badge"
+            ]
+        },
+        {
+            "id": 109,
+            "name": "Cynthia",
+            "hometown": "Celestic Town",
+            "badges": [
+                "Beacon Badge",
+                "Icicle Badge",
+                "Relic Badge"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Serena",
+            "hometown": "Vaniville Town",
+            "badges": [
+                "Bug Badge",
+                "Fairy Badge",
+                "Psychic Badge"
+            ]
+        }
+    ]
+}
