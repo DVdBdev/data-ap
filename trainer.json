@@ -4,6 +4,7 @@
             "id": 101,
             "name": "Ash Ketchum",
             "hometown": "Pallet Town",
+            "picture": "/assets/ashK.png",
             "badges": [
                 "Boulder Badge",
                 "Cascade Badge",
@@ -14,6 +15,7 @@
             "id": 102,
             "name": "Leon",
             "hometown": "Postwick",
+            "picture": "/assets/Leon.jpg",
             "badges": [
                 "Grass Badge",
                 "Fire Badge",
@@ -24,6 +26,7 @@
             "id": 103,
             "name": "May",
             "hometown": "Petalburg City",
+            "picture": "/assets/May.webp",
             "badges": [
                 "Stone Badge",
                 "Dynamo Badge",
@@ -34,6 +37,7 @@
             "id": 104,
             "name": "Agatha",
             "hometown": "Kanto",
+            "picture": "/assets/Agatha.jpg",
             "badges": [
                 "Soul Badge",
                 "Marsh Badge",
@@ -44,6 +48,7 @@
             "id": 105,
             "name": "Giovanni",
             "hometown": "Viridian City",
+            "picture": "/assets/Giovanni.webp",
             "badges": [
                 "Earth Badge",
                 "Poison Badge",
@@ -54,6 +59,7 @@
             "id": 106,
             "name": "Misty",
             "hometown": "Cerulean City",
+            "picture": "/assets/Misty.png",
             "badges": [
                 "Cascade Badge",
                 "Rain Badge",
@@ -64,6 +70,7 @@
             "id": 107,
             "name": "Red",
             "hometown": "Pallet Town",
+            "picture": "/assets/Red.jpg",
             "badges": [
                 "Boulder Badge",
                 "Earth Badge",
@@ -74,6 +81,7 @@
             "id": 108,
             "name": "Riley",
             "hometown": "Iron Island",
+            "picture": "/assets/Riley.jpg",
             "badges": [
                 "Iron Badge",
                 "Steel Badge",
@@ -84,6 +92,7 @@
             "id": 109,
             "name": "Cynthia",
             "hometown": "Celestic Town",
+            "picture": "/assets/Cynthia.png",
             "badges": [
                 "Beacon Badge",
                 "Icicle Badge",
@@ -94,6 +103,7 @@
             "id": 110,
             "name": "Serena",
             "hometown": "Vaniville Town",
+            "picture": "/assets/Serena.jpg",
             "badges": [
                 "Bug Badge",
                 "Fairy Badge",
